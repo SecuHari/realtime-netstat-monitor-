@@ -115,4 +115,5 @@ Licensed under the **MIT License** — free for personal and commercial use.
 ## 🧑‍💻 Author
 **Hareesh Kumar**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/hareesh-kumar-02045a339/)  
-📧 Email: *(optional)*
+🔗 [Instagram Profile](https://www.instagram.com/secuhari?igsh=MW5nMGk4Nm8wZ3Q5dA==)  
+
