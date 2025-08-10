@@ -94,10 +94,12 @@ TCP: 7 | UDP: 0 | Total: 7
 ## 🎥 Demo Video
 A recorded demonstration of the project is included in this repository.  
 [📺 Watch Demo Video](demo.mp4)
-[📺  Secreenshot](1.png)
-[📺  Screenshot](2.png)
-[📺  Screenshot](3.png)
-[📺  Screenshot](4.png)
+
+## 📸 Screenshots
+![Screenshot 1](1.png)
+![Screenshot 2](2.png)
+![Screenshot 3](3.png)
+![Screenshot 4](4.png)
 
 ---
 
