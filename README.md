@@ -93,7 +93,7 @@ TCP: 7 | UDP: 0 | Total: 7
 
 ## 🎥 Demo Video
 A recorded demonstration of the project is included in this repository.  
-[📺 Watch Demo Video](demo.mp4)
+[📺 Watch Demo Video](https://www.linkedin.com/posts/hareesh-kumar-02045a339_linux-bash-networking-activity-7360228020789428224-pL4D?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFT2WJgB0rvVQURSHMziJDyJJqcaIPZiZoQ)
 
 ## 📸 Screenshots
 ![Screenshot 1](1.png)
